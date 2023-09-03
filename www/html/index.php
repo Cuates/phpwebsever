@@ -1,9 +1,9 @@
 <!DOCTYPE html>
   <head>
-    <title>Hello World!</title>
+    <title>ERROR</title>
   </head>
   <body>
-    <h1>Hello World! Changes are Applied</h1>
-    <p><?php echo 'We are running PHP, version: ' . phpversion(); ?></p>
+    <h1>ERROR</h1>
+    Page does not exist
   </body>
 </html>
