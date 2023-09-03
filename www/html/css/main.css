@@ -1,0 +1,73 @@
+html
+{
+}
+
+body
+{
+
+}
+
+a
+{
+  color: #7889dd;
+}
+
+ul
+{
+  padding: 0;
+  list-style: none;
+  background: #0f374f;
+  text-align: center;
+}
+
+ul li
+{
+  display: inline-block;
+}
+
+ul li a
+{
+  display: block;
+  padding: 10px 25px;
+  color: #d69279;
+  text-decoration: none;
+}
+
+ul li a:hover
+{
+  color: #d68779;
+  background: #0f1e4f;
+}
+
+.content
+{
+  width: 1000px;
+  margin: 0 auto;
+  background-color: #0f2c4f;
+  color: #d6a979;
+}
+
+.pageTitle
+{
+  width: 1000px;
+  margin: 0 auto;
+  text-align: center;
+  background-color: #0f2c4f;
+  color: #d6a979;
+}
+
+footer
+{
+  text-align: center;
+}
+
+/* https://davidwalsh.name/center-website */
+#context
+{
+  width: 1000px;
+  margin: 0 auto;
+  font-size: 18px;
+  font-family: 'Times New Roman', Times, serif;
+  background-color: #0f314f;
+  color: #d6a479;
+}
